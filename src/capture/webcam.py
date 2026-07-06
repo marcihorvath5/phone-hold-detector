@@ -1,0 +1,1 @@
+"""Phase 1: local webcam FrameSource backend (Mac built-in camera via OpenCV)."""

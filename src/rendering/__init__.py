@@ -1,0 +1,1 @@
+"""Drawing layer: pure frame-in → frame-out; all OpenCV drawing lives here."""

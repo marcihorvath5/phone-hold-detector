@@ -1,0 +1,1 @@
+"""FrameSource interface — the contract every capture backend implements; the pipeline types against this only."""

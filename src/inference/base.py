@@ -1,0 +1,1 @@
+"""Detector interface + plain result types — third-party model objects must not leak past this layer."""

@@ -1,0 +1,1 @@
+"""Destination layer: where processed frames and events go (window now; stream and database later)."""

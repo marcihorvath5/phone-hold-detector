@@ -1,0 +1,1 @@
+"""Inference layer: thin, model-agnostic wrappers around detection/segmentation models."""

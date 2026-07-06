@@ -1,0 +1,1 @@
+"""Phase 1: local display window via cv2.imshow, including quit-key handling."""

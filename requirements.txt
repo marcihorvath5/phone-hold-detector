@@ -1,0 +1,4 @@
+# Versions deliberately unpinned while learning — pin once the stack is stable.
+ultralytics       # YOLO detection/segmentation + ByteTrack; pulls in PyTorch (the DL engine, large)
+opencv-python     # video I/O, drawing, geometry
+python-dotenv     # loads .env into the environment for src/config.py

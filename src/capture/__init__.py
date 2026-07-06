@@ -1,0 +1,1 @@
+"""Frame-source layer: one interface, swappable backends (Mac webcam now, Pi MJPEG stream later)."""

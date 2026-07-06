@@ -1,0 +1,1 @@
+"""Phase 1: pretrained person segmentation wrapper — person masks + boxes (track IDs arrive in Phase 2)."""
