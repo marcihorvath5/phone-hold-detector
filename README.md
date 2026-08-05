@@ -4,8 +4,6 @@ Real-time camera pipeline that outlines people with a pretrained segmentation mo
 detects whether each person is holding a phone with a detector I train myself — a personal
 project for learning ML/computer vision end to end (dataset → labeling → training → inference).
 
-Full project instructions, decisions, and build phases live in [CLAUDE.md](CLAUDE.md).
-
 ## Layout
 
     main.py            entry point (stays at root so `src.*` imports resolve)
